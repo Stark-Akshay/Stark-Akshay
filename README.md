@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Stark-Akshay<br>👀 I’m interested in Front-end development and Full Stack Development<br>🌱 I’m currently learning NextJS, SolidJS<br>💞️ I’m looking to collaborate on Front-end projects<br>📫 How to reach me via my instagram profile @oneshortfocus
+👋 Hi, I’m @Stark-Akshay<br>👀 I’m interested in Front-end development and Full Stack Development<br>🌱 I’m currently learning NextJS <br>💞️ I’m looking to collaborate on Front-end projects<br>📫 How to reach me via my instagram profile @oneshortfocus
 
 
 ## 🌐 Socials:
